@@ -99,6 +99,10 @@
     color: #FFB74E;
 }
 
+.navigation-contact-form h1{
+    text-align: center;
+}
+
 /*mensajes en el formulario (parrafos)*/
 .alertas{ 
     color: #FFB74E;
